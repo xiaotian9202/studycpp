@@ -1,5 +1,6 @@
 #include <iostream>  // for std::out and std::cin
 
+// Ask the user to enter three values and then print those values as a sentence. 
 int main()
 {
     std::cout << "Enter a number: ";  // ask user for a number
